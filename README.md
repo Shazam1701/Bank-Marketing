@@ -1,10 +1,8 @@
-# Bank Marketing: análisis exploratorio y regresión logística
+# Bank Marketing: Análisis exploratorio y regresión logística
 
 ## Descripción
 
-Proyecto de análisis de datos desarrollado como parte del Módulo 1 de un diplomado. Utiliza el conjunto de datos **Bank Marketing**, que contiene información de campañas de marketing directo de una institución bancaria portuguesa.
-
-El objetivo es explorar los datos, prepararlos y construir un modelo de clasificación que estime si un cliente se suscribió a un depósito a plazo fijo.
+El proyecto utiliza el conjunto de datos **Bank Marketing**, que contiene información de campañas de marketing directo de una institución bancaria portuguesa. El objetivo es explorar los datos, prepararlos y construir un modelo de clasificación que estime si un cliente se suscribió a un depósito a plazo fijo.
 
 ## Objetivos
 
@@ -63,15 +61,6 @@ El notebook puede requerir otras bibliotecas según las importaciones incluidas 
 ## Dashboard
 
 [Consultar el dashboard en Looker Studio](https://lookerstudio.google.com/reporting/a3f6496c-bfa7-49a3-bf8a-0cea92b42d06)
-
-## Estructura sugerida
-
-```text
-bank-marketing-logistic-regression/
-├── README.md
-├── bank-marketing-logistic-regression.ipynb
-└── bank-additional-full.csv  # dataset descargado; confirmar condiciones antes de publicarlo
-```
 
 ## Nota
 
